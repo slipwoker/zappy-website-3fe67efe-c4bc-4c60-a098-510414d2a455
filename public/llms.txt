@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://aerosurf-optics-3fe67efe.zappy5.app
+https://example.com
 Discover AeroSurf Optics: high-performance polarized sunglasses for surfers and cyclists featuring our unsinkable floating strap. Grab your pair for just $49 worldwide.
 
 ### Performance
-https://aerosurf-optics-3fe67efe.zappy5.app/performance
+https://example.com/performance
 Explore the tech behind our floating strap sports sunglasses. UV400 polarized lenses, impact-proof frames, and a detachable tether keep your vision locked in any condition.
 
 ### Editions
-https://aerosurf-optics-3fe67efe.zappy5.app/editions
+https://example.com/editions
 Meet the B BLIZ Breeze 2026 Series—four distinct editions of dual sport sunglasses for surf and cycling. Pick the style that matches your adventure personality at $49.
 
 ### Contact
-https://aerosurf-optics-3fe67efe.zappy5.app/contact
+https://example.com/contact
 Got questions about your UV400 polarized cycling sunglasses or floating strap tech? Hit up the AeroSurf Optics crew. We&#39;re here to fuel your next ride or session.
 
 ### Products
-https://aerosurf-optics-3fe67efe.zappy5.app/products
+https://example.com/products
 Our Products - AeroSurf Optics
 
 ### Cart
-https://aerosurf-optics-3fe67efe.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://aerosurf-optics-3fe67efe.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://aerosurf-optics-3fe67efe.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://aerosurf-optics-3fe67efe.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://aerosurf-optics-3fe67efe.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://aerosurf-optics-3fe67efe.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - AeroSurf Optics
 
 ### Category
-https://aerosurf-optics-3fe67efe.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - AeroSurf Optics
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://aerosurf-optics-3fe67efe.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://aerosurf-optics-3fe67efe.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://aerosurf-optics-3fe67efe.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-Commerce / Sports Eyewear
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://aerosurf-optics-3fe67efe.zappy5.app/sitemap.xml
-- Robots: https://aerosurf-optics-3fe67efe.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://aerosurf-optics-3fe67efe.zappy5.app/llms-full.txt
-- Products (JSON): https://aerosurf-optics-3fe67efe.zappy5.app/products.json
-- Products (Google Merchant RSS): https://aerosurf-optics-3fe67efe.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
