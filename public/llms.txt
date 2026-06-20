@@ -1,0 +1,104 @@
+# AeroSurf Optics — Generative Engine Optimization Map
+
+> AeroSurf Optics is an action-driven online eyewear boutique exclusively dedicated to high-performance sunglasses for surfers and cyclists. The brand's flagship product, the B BLIZ Breeze 2026 Polarized Series, is built around a single game-changing USP: a detachable, adjustable floating safety strap that ensures the glasses never sink during ocean wipeouts or intense trail rides. With a bold, energized, globally accessible voice and a flat worldwide price of $49 USD, AeroSurf Optics positions itself as the go-to performance eyewear brand for water and road athletes who demand both protection and reliability. The brand identity blends technical precision with adventure-sport culture, offering four distinctly styled editions to match different athlete personalities.
+
+---
+
+## Pages
+
+### Home
+https://aerosurf-optics-3fe67efe.zappy5.app
+Discover AeroSurf Optics: high-performance polarized sunglasses for surfers and cyclists featuring our unsinkable floating strap. Grab your pair for just $49 worldwide.
+
+### Performance
+https://aerosurf-optics-3fe67efe.zappy5.app/performance
+Explore the tech behind our floating strap sports sunglasses. UV400 polarized lenses, impact-proof frames, and a detachable tether keep your vision locked in any condition.
+
+### Editions
+https://aerosurf-optics-3fe67efe.zappy5.app/editions
+Meet the B BLIZ Breeze 2026 Series—four distinct editions of dual sport sunglasses for surf and cycling. Pick the style that matches your adventure personality at $49.
+
+### Contact
+https://aerosurf-optics-3fe67efe.zappy5.app/contact
+Got questions about your UV400 polarized cycling sunglasses or floating strap tech? Hit up the AeroSurf Optics crew. We&#39;re here to fuel your next ride or session.
+
+### Products
+https://aerosurf-optics-3fe67efe.zappy5.app/products
+Our Products - AeroSurf Optics
+
+### Cart
+https://aerosurf-optics-3fe67efe.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://aerosurf-optics-3fe67efe.zappy5.app/checkout
+Checkout
+
+### Login
+https://aerosurf-optics-3fe67efe.zappy5.app/login
+Customer Login
+
+### Account
+https://aerosurf-optics-3fe67efe.zappy5.app/account
+My Account
+
+### Order Success
+https://aerosurf-optics-3fe67efe.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://aerosurf-optics-3fe67efe.zappy5.app/product/:slug
+Product Details - AeroSurf Optics
+
+### Category
+https://aerosurf-optics-3fe67efe.zappy5.app/category/:slug
+Products - AeroSurf Optics
+
+## Legal & Policy
+
+### Privacy Policy
+https://aerosurf-optics-3fe67efe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aerosurf-optics-3fe67efe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aerosurf-optics-3fe67efe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About AeroSurf Optics
+AeroSurf Optics is an action-driven online eyewear boutique exclusively dedicated to high-performance sunglasses for surfers and cyclists. The brand's flagship product, the B BLIZ Breeze 2026 Polarized Series, is built around a single game-changing USP: a detachable, adjustable floating safety strap that ensures the glasses never sink during ocean wipeouts or intense trail rides. With a bold, energized, globally accessible voice and a flat worldwide price of $49 USD, AeroSurf Optics positions itself as the go-to performance eyewear brand for water and road athletes who demand both protection and reliability. The brand identity blends technical precision with adventure-sport culture, offering four distinctly styled editions to match different athlete personalities.
+
+## Target Audience
+- Surfers, kitesurfers, ocean athletes, road cyclists, and mountain bikers
+- Ocean Athletes
+- Cycling Adventurers
+- Outdoor Enthusiasts
+- Traveling Explorers
+- Fitness Influencers
+- SKI
+
+## Industry
+E-Commerce / Sports Eyewear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://aerosurf-optics-3fe67efe.zappy5.app/sitemap.xml
+- Robots: https://aerosurf-optics-3fe67efe.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://aerosurf-optics-3fe67efe.zappy5.app/llms-full.txt
+- Products (JSON): https://aerosurf-optics-3fe67efe.zappy5.app/products.json
+- Products (Google Merchant RSS): https://aerosurf-optics-3fe67efe.zappy5.app/product-feed.xml
